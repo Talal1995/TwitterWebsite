@@ -1,0 +1,90 @@
+.body{
+   
+  background-image:url("https://www.wired.com/images_blogs/business/2013/09/TWITTER-LOGO1-AZ1.jpg") ;
+
+  position:fixed;
+  background-size: 100%;
+}
+.page{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.field{
+    color: black;
+    width: 430px;
+    height: 130px;
+    position: fixed;
+    left: 340px;
+    top: 15px;
+    border-color: black;
+    box-shadow: 6px 6px 6px 6px gray;
+    display: flex;
+}
+.status{
+  position: fixed;
+  top: 200px;
+  left:350px;
+  width: 400px;
+  height: 150px;
+  color: white;
+  font-size: 20px;
+  border-color: black;
+  box-shadow: 6px 6px 6px 6px gray;
+  display: flex;
+}
+.legend{
+  font-family: Arial;
+  color:white;
+  font-size: 20px;
+  display: flex;
+}
+  
+
+.tweet{
+    padding: 3px;
+    margin: 30px;
+    display: flex;
+}
+button{
+    min-width: 100px;
+    max-height: 100px;
+    display: flex;
+}
+
+
+.submit_{
+      min-width: 100px;
+    max-height: 100px;
+    position: fixed;
+    top: 115px;
+    left: 600px;
+    background-color: gray;
+    display: flex;
+
+}
+.log_in{
+  background: gray;
+  position: fixed;
+  left: 390px;
+  top: 115px;
+  color: black;
+  display: flex;
+  
+}
+.tweet_box{
+    height: 60px;
+    width: 150px;
+    position: fixed;
+    top: 50px;
+    left: 390px;
+    display: flex;
+}
+.translation_results{
+    height: 60px;
+    width: 150px;
+    position: fixed;
+    top: 50px;
+    left: 600px;
+    display: flex;
+}

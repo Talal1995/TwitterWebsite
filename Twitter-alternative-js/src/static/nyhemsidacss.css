@@ -1,0 +1,22 @@
+.body{
+   
+  background-image:url("https://www.wired.com/images_blogs/business/2013/09/TWITTER-LOGO1-AZ1.jpg") ;
+
+  position:fixed;
+  background-size: 100%;
+}
+.button{
+    position: fixed;
+    top : 350px;
+    left:600px;
+    width: 150px;
+    height: 70px;
+    font-size: 25px;
+    
+}
+.rubrik{
+    font-size: 20px;
+    position: fixed;
+    left: 300px;
+    color:white;
+}
